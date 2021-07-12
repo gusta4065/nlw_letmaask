@@ -1,6 +1,7 @@
                                   My first react application
 
-  Letmeask its a Q%A realtime plataform where:
+  
+    Letmeask its a Q%A realtime plataform where:
     The users can create a room(Becomining a admg) or
     participate of a room(Becomiinig a questioner).
     
